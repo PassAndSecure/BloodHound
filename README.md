@@ -6,6 +6,7 @@ BloodHound est un outil utilisé pour identifier les relations et les chemins d'
 Ce dépôt contient les outils SharpHound et AzureHound. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
 
 - **SharpHound** : Outil de collecte de données pour les environnements Active Directory.
+- Téléchargeable automatiquement avec le script 
 - **AzureHound** : Outil de collecte de données pour les environnements Microsoft Entra ID (anciennement Azure Active Directory).
 
 ## Téléchargement
