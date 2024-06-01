@@ -6,8 +6,9 @@ BloodHound est un outil utilisé pour identifier les relations et les chemins d'
 Ce dépôt contient les outils SharpHound et AzureHound. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
 
 - **SharpHound** : Outil de collecte de données pour les environnements Active Directory.
-- Téléchargeable automatiquement avec le script 
+  (Téléchargeable automatiquement avec le script Download_ SharpHound.ps1)
 - **AzureHound** : Outil de collecte de données pour les environnements Microsoft Entra ID (anciennement Azure Active Directory).
+  (Téléchargeable automatiquement avec le script Download_ AzureHound.ps1)
 
 ## Téléchargement
 Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`debian-12.5.0-amd64-netinst.iso`](https://github.com/PassAndSecure/Debian_12/releases/download/debian-12.5.0-amd64-netinst/debian-12.5.0-amd64-netinst.iso) pour le télécharger.
