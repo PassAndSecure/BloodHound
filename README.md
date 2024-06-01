@@ -1,6 +1,6 @@
 # BloodHound
 
-BloodHound est un outil utilisé pour identifier les relations et les chemins d'attaque au sein des environnements Active Directory (AD) et Azure Active Directory (Azure AD). Il permet aux équipes de sécurité et aux administrateurs de visualiser et d'analyser les configurations et les permissions pour renforcer la sécurité de leurs infrastructures.
+BloodHound est un outil utilisé pour identifier les relations et les chemins d'attaque au sein des environnements Active Directory (AD) et Microsoft Entra ID (anciennement Azure Active Directory). Il permet aux équipes de sécurité et aux administrateurs de visualiser et d'analyser les configurations et les permissions pour renforcer la sécurité de leurs infrastructures.
 
 ## Contenu du Dépôt
 
