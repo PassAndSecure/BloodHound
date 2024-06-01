@@ -12,17 +12,15 @@ Ce dépôt contient les outils SharpHound et AzureHound. Nous le partageons dans
 Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`debian-12.5.0-amd64-netinst.iso`](https://github.com/PassAndSecure/Debian_12/releases/download/debian-12.5.0-amd64-netinst/debian-12.5.0-amd64-netinst.iso) pour le télécharger.
 
 ## Utilisation
-L'ISO est fourni tel quel pour faciliter l'installation de Debian. Vous pouvez l'utiliser pour créer une clé USB bootable ou pour démarrer une machine virtuelle.
+Les outils sont fourni tel quel pour faciliter l'utilisation de BloodHound. Vous pouvez les utiliser pour collecter les données de vos Active Directory et Microsoft Entra ID.
 
 ## Avertissement
-Le téléchargement et l'utilisation de l'ISO ne sont pas garantis par le site PassAndSecure. Le site et ses créateurs ne sont pas responsables des problèmes ou des dommages qui pourraient survenir suite à l'utilisation de l'ISO. Nous fournissons cet ISO sans garantie d'aucune sorte ; utilisez-le à vos propres risques.
+Le téléchargement et l'utilisation des outils ne sont pas garantis par le site PassAndSecure. Le site et ses créateurs ne sont pas responsables des problèmes ou des dommages qui pourraient survenir suite à l'utilisation de ces outils. Nous fournissons ces outils sans garantie d'aucune sorte ; utilisez-les à vos propres risques.
 
 ## Contribution
 Nous sommes une communauté bienveillante et ouverte à toute contribution. Si vous souhaitez contribuer, veuillez forker le dépôt et soumettre vos modifications via une pull request.
 
 ## Support
-Bien que nous ne fournissions pas de support officiel, vous pouvez ouvrir un problème (issue) dans ce dépôt si vous rencontrez des difficultés avec l'ISO. La communauté pourrait être en mesure de vous aider.
+Bien que nous ne fournissions pas de support officiel, vous pouvez ouvrir un problème (issue) dans ce dépôt si vous rencontrez des difficultés avec les outils. La communauté pourrait être en mesure de vous aider.
 
-Merci de votre intérêt pour Debian et pour votre participation à la communauté !
-```sh
-sudo apt -y update && sudo apt upgrade && sudo apt full-upgrade && sudo apt autoclean && sudo apt clean
+Merci de votre intérêt pour BloodHound et pour votre participation à la communauté !
