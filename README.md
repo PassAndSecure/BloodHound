@@ -8,6 +8,8 @@ Ce dépôt contient les outils SharpHound et AzureHound. Nous le partageons dans
 - **SharpHound** : Outil de collecte de données pour les environnements Active Directory.
 - **AzureHound** : Outil de collecte de données pour les environnements Microsoft Entra ID (anciennement Azure Active Directory).
 
+Pour plus d'informations et d'autres outils de sécurité, visitez notre site web [PassAndSecure](https://passandsecure.fr).
+
 ## Téléchargement
 Vous pouvez télécharger les outils directement depuis ce dépôt, pour cela, utiliser les scripts Download_ SharpHound.ps1 et Download_ AzureHound.ps1, depuis Powershell pour automatiser le téléchargement.
 
